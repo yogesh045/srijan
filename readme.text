@@ -1,0 +1,15 @@
+Documentations
+==============
+
+There is 2 different in the srijan directory and both are separated on directory bases.
+
+1st Question
+============
+1st questions answer is presented in a "dictionary" directory.
+To run the project you just need to put these folder in your "html" directory and hit the url "localhost/srijan/directory/search.html"
+
+
+2nd Question
+============
+2nd questions answer is presented in a "hack_number" directory.
+To run the project you just need to put these folder in your "html" directory and hit the url "localhost/srijan/hack_number/hack_number.html"
